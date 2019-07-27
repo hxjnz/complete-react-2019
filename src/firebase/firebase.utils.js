@@ -48,8 +48,3 @@ provider.setCustomParameters({ promt: "select_account" });
 export const signInWithGoogle = () => auth.signInWithPopup(provider);
 
 export default firebase;
-
-// Here is your client ID
-// 615645894822-8q0mot1rbv1ghrrr5he40f55vjs57id6.apps.googleusercontent.com
-// Here is your client secret
-// zypabHoyrrzJhD52CNzKFx9u
